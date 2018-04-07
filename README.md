@@ -1,3 +1,4 @@
 # Home_Banking
-Proyecto sobre funcionalidades de un cajero.
+Proyecto 2 - Home-Banking.
 Carrera full stack - Acamica.
+Funcionalidades de un cajero.
